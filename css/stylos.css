@@ -1,0 +1,48 @@
+*{
+     box-sizing: border-box;
+}
+body {
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: aquamarine;
+}
+
+section {
+    background-color: azure;
+}
+
+article {
+    background-color: chartreuse;
+}
+
+aside {
+    background-color: khaki;
+}
+
+footer {
+    background-color: yellow;
+}
+
+.altura1 {
+    height: 10vh;
+}
+
+.altura2 {
+    height: 10vh;
+}
+
+.altura3 {
+    height: 70vh;
+}
+
+.altura4 {
+    height: 10vh;
+}
